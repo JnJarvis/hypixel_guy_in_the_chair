@@ -5,7 +5,7 @@ import pyperclip
 import time
 import hypixel
 
-API_KEY = '2e7433a1-de19-4487-8fe2-4e522d5391cd'
+API_KEY = 'f0cf4f20-3aea-44d7-9820-dc9a80b28c82'
 PLAYER_NAME = '7b9ee1ea-3fea-4649-87a3-e726f7165534'
 hypixel.setKeys([API_KEY])
 print("success!!")
